@@ -1,0 +1,21 @@
+10 users 
+Username: carolkoch54 &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: MLKnight12 &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: DanaDane329 &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: CynthiaWhalen7 &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: Thaliafuentes10 &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: AviMurally &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: Craigstoneman1 &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: Jerzeejap &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: Crypto_KB &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
+Username: yymods &  Retweets: [('carolkoch54', 32196), ('MLKnight12', 24091), ('DanaDane329', 24091), ('CynthiaWhalen7', 24091), ('Thaliafuentes10', 17514), ('AviMurally', 17514), ('Craigstoneman1', 14518), ('Jerzeejap', 14518), ('Crypto_KB', 14518), ('yymods', 14517)]
+
